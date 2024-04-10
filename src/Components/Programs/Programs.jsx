@@ -1,4 +1,6 @@
-// import React from 'react'
+/* eslint-disable no-unused-vars */
+import React from 'react';
+/* eslint-enable no-unused-vars */
 import './Programs.css'
 import program_1 from '../../assets/Images/program-1.png'
 import program_2 from '../../assets/Images/program-2.png'
