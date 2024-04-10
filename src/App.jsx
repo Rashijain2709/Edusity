@@ -6,6 +6,7 @@ import Header from "./Components/Header/Header";
 import Navbar from "./Components/Navbar/Navbar"
 import Programs from "./Components/Programs/Programs";
 import Title from "./Components/Title/Title";
+import About from './Components/About/About';
 
 const App = () => {
   return (
@@ -16,6 +17,8 @@ const App = () => {
       <div className="container">
         <Title subTitle='Our PROGRAM' title='What We Offer'/>
         <Programs />
+        <About />
+        <Title subTitle='GALLERY' title='Campus Photos'/>
       </div>
 
     </div>
