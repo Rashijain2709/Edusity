@@ -1,6 +1,4 @@
-/* eslint-disable no-unused-vars */
-import React, { useEffect, useState } from 'react';
-/* eslint-enable no-unused-vars */
+import { useEffect, useState } from 'react';
 import './Navbar.css'
 import logo from '../../assets/Images/logo.png'
 
